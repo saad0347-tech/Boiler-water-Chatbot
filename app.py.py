@@ -48,7 +48,7 @@ ________________
 
 
 Q5: Why is deaeration necessary for boiler water?
-A5: Deaeration removes dissolved gases, such as oxygen and carbon dioxide, that can lead to corrosion of the boiler's metal parts. This process helps extend the life of the boiler system.
+A5: Deaeration removes dissolved gases, such as oxygen and carbon dioxide, that can lead to corrosion of the boilers metal parts. This process helps extend the life of the boiler system.
 ________________
 
 
