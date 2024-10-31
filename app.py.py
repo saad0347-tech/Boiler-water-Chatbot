@@ -1,4 +1,4 @@
-﻿BOILER CHEMISTRY
+content = """﻿BOILER CHEMISTRY
 Boiler chemistry is essential for maintaining efficient and safe boiler operations. Here is an overview of the types of water used, basic chemical limits, and considerations to ensure smooth boiler functioning:
 1. Types of Water Used in Boilers
 * Raw Water: Untreated water from natural sources, which usually contains impurities, minerals, and dissolved gases.
@@ -73,4 +73,6 @@ ________________
 
 
 Q10: How does proper boiler chemistry help improve efficiency?
-A10: Maintaining proper chemistry prevents scale buildup and corrosion, allowing for better heat transfer, lower fuel consumption, and reduced maintenance costs, all of which enhance overall efficiency.
+A10: Maintaining proper chemistry prevents scale buildup and corrosion, allowing for better heat transfer, lower fuel consumption, and reduced maintenance costs, all of which enhance overall efficiency."""
+
+print(content)
