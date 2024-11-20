@@ -28,14 +28,14 @@ import torch
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 import streamlit as st
 
-!python -m ipykernel install --user --name=google-colab
+python -m ipykernel install --user --name=google-colab
 
 import streamlit as st
 import pandas as pd
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 import torch
 
-!python -m ipykernel install --user --name=google-colab
+python -m ipykernel install --user --name=google-colab
 
 !echo -e "streamlit\npandas\ntransformers\ntorch" > requirements.txt
 
