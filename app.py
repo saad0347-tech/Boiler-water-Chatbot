@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1c_vrTm1TftnLQqrz2jyE2Zc53ZK8sPh4
 """
 
-!pip install streamlit pandas transformers
+pip install streamlit pandas transformers
 
 import pandas as pd
 
@@ -30,9 +30,9 @@ import torch
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 import streamlit as st
 
-!pip install streamlit pandas transformers torch
+pip install streamlit pandas transformers torch
 
-!python -m ipykernel install --user --name=google-colab
+python -m ipykernel install --user --name=google-colab
 
 import streamlit as st
 import pandas as pd
@@ -41,14 +41,14 @@ import torch
 
 python -m ipykernel install --user --name=google-colab
 
-!python -m ipykernel install --user --name=google-colab
-
-!pip install streamlit pandas transformers
+python -m ipykernel install --user --name=google-colab
 
 pip install streamlit pandas transformers
 
-!echo -e "streamlit\npandas\ntransformers\ntorch" > requirements.txt
+pip install streamlit pandas transformers
 
-!cat requirements.txt
+echo -e "streamlit\npandas\ntransformers\ntorch" > requirements.txt
 
-!pip install -r requirements.txt
+cat requirements.txt
+
+pip install -r requirements.txt
