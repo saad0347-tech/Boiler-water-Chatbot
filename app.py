@@ -36,8 +36,8 @@ import torch
 
 pip install streamlit pandas transformers
 
-!echo -e "streamlit\npandas\ntransformers\ntorch" > requirements.txt
+echo -e "streamlit\npandas\ntransformers\ntorch" > requirements.txt
 
-!cat requirements.txt
+cat requirements.txt
 
-!pip install -r requirements.txt
+pip install -r requirements.txt
