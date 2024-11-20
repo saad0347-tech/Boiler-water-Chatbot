@@ -33,8 +33,6 @@ import streamlit as st
 import pandas as pd
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 import torch
-!pip install --upgrade pip
-
 !pip install streamlit
 
 import subprocess
