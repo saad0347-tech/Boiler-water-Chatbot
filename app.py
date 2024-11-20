@@ -33,10 +33,6 @@ import streamlit as st
 import pandas as pd
 from transformers import AutoModelForQuestionAnswering, AutoTokenizer
 import torch
-
-
-!echo -e "streamlit\npandas\ntransformers\ntorch" > requirements.txt
-
 !pip install --upgrade pip
 
 !pip install streamlit
